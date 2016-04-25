@@ -1,2 +1,2 @@
 # d3-practice
-Lynda.com tutorial on D3
+Artifacts from working through the Lynda.com D3 tutorial
